@@ -11,15 +11,15 @@
 
 - 👯 I’m looking to collaborate with **other content creators and developers.**
 
-- 👨‍💻 All of my projects are available at [https://vkvgames.com/](https://vkvgames.com/)
+- 👨‍💻 All of my projects are available at [vkvgames.com](vkvgames.com)
 
-- 📝 I regularly write articles on [https://vkvgames.com/](https://vkvgames.com/)
+- 📝 I regularly write articles on [vkvgames.com](vkvgames.com)
 
 - 💬 Ask me about **Java, JavaScript, Python, PHP, HTML and CSS**
 
 - 📫 How to reach me **Vivek@vkvgames.com**
 
-- 📄 Know about my experiences [https://vivek.vkvgames.com/](https://vivek.vkvgames.com/)
+- 📄 Know about my experiences [vivek.vkvgames.com](vivek.vkvgames.com)
 
 - ⚡ Fun fact **A hacker does for love what others would not do for money.**
 
