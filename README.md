@@ -21,7 +21,7 @@
 
 - 📄 Know about my experiences [Vkv Games](https://vivek.vkvgames.com)
 
-- ⚡ Fun fact **A hacker does for love what others would not do for money.**
+- ⚡ **A hacker does for love what others would not do for money.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
